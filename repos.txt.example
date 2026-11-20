@@ -1,0 +1,3 @@
+# エージェントが処理するリポジトリ（1行1つ、owner/name）
+# 追加は ./add-repo.sh owner/name を使う
+# your-name/agent-inbox
